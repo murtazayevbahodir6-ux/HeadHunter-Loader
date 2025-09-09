@@ -1,1 +1,16 @@
-
+backports-datetime-fromisoformat==2.0.3
+certifi==2025.8.3
+cffi==1.17.1
+charset-normalizer==3.4.3
+cryptography==45.0.6
+environs==14.3.0
+idna==3.10
+marshmallow==4.0.1
+mysql-connector==2.2.9
+mysql-connector-python==9.4.0
+pycparser==2.22
+PyMySQL==1.1.2
+python-dotenv==1.1.1
+requests==2.32.5
+typing_extensions==4.15.0
+urllib3==2.5.0
